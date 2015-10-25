@@ -13,5 +13,5 @@ int charToInt (char *number, int count)
        	multiple = multiple * 10;
     	}
     	return result;
-}
+};
 
